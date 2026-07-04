@@ -34,4 +34,7 @@ Below are my parts for reference:
 | USB cable                                 |      |                                                                                                               | To connect keyboard to computer                                                                       |
 
 ## Firmware
-QMK firmware
+QMK firmware, [my config included](https://github.com/sjl-03/Sofle-keyboard-guide/tree/main/sofle_firmware_promicro_rp2040)
+
+## Case
+May still have some small issues, can modify them or just sand them down
