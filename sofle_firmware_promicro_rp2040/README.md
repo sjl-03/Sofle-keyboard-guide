@@ -1,1 +1,1 @@
-Keyboard pet from HellSingCoder: (Introducing Luna, the QMK keyboard pet )[https://www.reddit.com/r/olkb/comments/lmtgxc/introducing_luna_the_qmk_keyboard_pet/]
+Keyboard pet from HellSingCoder: [Introducing Luna, the QMK keyboard pet](https://www.reddit.com/r/olkb/comments/lmtgxc/introducing_luna_the_qmk_keyboard_pet/)
