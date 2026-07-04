@@ -12,8 +12,8 @@ Below are my parts for reference:
 
 | Component                                 | Qty  | Link                                                                                                          | Note                                                                                                  |
 |-------------------------------------------|------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| PCBs                                      | 2    | need to be fabricated, see github for gerber file                                                             |                                                                                                       |
-| Top plates                                | 2    | need to be fabricated, see github for gerber file                                                             |                                                                                                       |
+| PCBs                                      | 2    | need to be fabricated, see original github for gerber file                                                             |                                                                                                       |
+| Top plates                                | 2    | need to be fabricated, see original github for gerber file                                                             |                                                                                                       |
 | RP2040 Pro Micro Development Board 16M    | 2    | https://www.aliexpress.com/item/1005009890367599.html?spm=a2g0o.order_list.order_list_main.110.467718022lLcKc |                                                                                                       |
 | TRRS 3.5 MM Audio Jack Connector          | 2    | https://www.aliexpress.com/item/33029465106.html?spm=a2g0o.order_list.order_list_main.130.467718022lLcKc      |                                                                                                       |
 | 0.91 Inch I2C SSD1306 OLED Display Module | 1    | https://www.aliexpress.com/item/1005006365845676.html?spm=a2g0o.order_list.order_list_main.155.467718022lLcKc |                                                                                                       |
@@ -36,5 +36,7 @@ Below are my parts for reference:
 ## Firmware
 QMK firmware, [my config included](https://github.com/sjl-03/Sofle-keyboard-guide/tree/main/sofle_firmware_promicro_rp2040)
 
+QMK website: [QMK Configurator](https://config.qmk.fm/#/sofle/rev1/LAYOUT)
+
 ## Case
-May still have some small issues, can modify them or just sand them down
+May still have some small issues, can modify them or just sand them down. For Sofle v1 only (not compatible with v2)
