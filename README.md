@@ -38,5 +38,13 @@ QMK firmware, [my config included](https://github.com/sjl-03/Sofle-keyboard-guid
 
 QMK website: [QMK Configurator](https://config.qmk.fm/#/sofle/rev1/LAYOUT)
 
+To flash the RP2040 Pro Micro:
+1. Hold down the **BOOT** button on the microcontroller.
+2. While holding the button, connect it to your laptop using a USB-C cable.
+3. A new removable drive (storage device) should appear on your computer.
+4. Drag and drop the `.uf2` firmware file onto this drive.
+5. The device will automatically eject itself once the flashing process is complete. This is normal.
+Repeat the same steps for the second microcontroller if you have one.
+
 ## Case
 May still have some small issues, can modify them or just sand them down. For Sofle v1 only (not compatible with v2)
