@@ -1,10 +1,14 @@
 # Sofle Keyboard Tutorial
 
-## Parts
 [Original Github](https://github.com/josefadamcik/SofleKeyboard)
 I got Sofle_v1.1 because I like the original layout more.
 
 For reference: [Sofle Keyboard - build guide](https://josefadamcik.github.io/SofleKeyboard/build_guide.html)
+
+Reference video: [Sofle V2 Build Guid](https://www.youtube.com/watch?v=_3pe236--hA)
+
+## Parts
+Below are my parts for reference:
 
 | Component                                 | Qty  | Link                                                                                                          | Note                                                                                                  |
 |-------------------------------------------|------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -28,3 +32,6 @@ For reference: [Sofle Keyboard - build guide](https://josefadamcik.github.io/Sof
 | Keycap set                                | 1    | https://www.aliexpress.com/item/1005008642568026.html?spm=a2g0o.order_list.order_list_main.10.467718022lLcKc  |                                                                                                       |
 | Rubber feet                               | 8-10 | https://www.aliexpress.com/item/1005006382486165.html?spm=a2g0o.order_list.order_list_main.414.79891802CVSZHc |                                                                                                       |
 | USB cable                                 |      |                                                                                                               | To connect keyboard to computer                                                                       |
+
+## Firmware
+QMK firmware
