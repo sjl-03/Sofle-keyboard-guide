@@ -46,5 +46,11 @@ To flash the RP2040 Pro Micro:
 5. The device will automatically eject itself once the flashing process is complete. This is normal.
 Repeat the same steps for the second microcontroller if you have one.
 
+To update `.uf2` file:
+1. Double press **reset** button
+2. A new removable drive (storage device) should appear on your computer.
+4. Drag and drop the `.uf2` firmware file onto this drive.
+5. The device will automatically eject itself once flashed
+
 ## Case
 May still have some small issues, can modify them or just sand them down. For Sofle v1 only (not compatible with v2)
